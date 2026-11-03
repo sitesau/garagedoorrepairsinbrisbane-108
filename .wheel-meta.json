@@ -1,0 +1,22 @@
+{
+  "wheel_id": 713,
+  "structure": "umbrella",
+  "slug": "garagedoorrepairsinbrisbane-108",
+  "project": "garage-door-repairs-brisbane-checklist-4b6ca094fe8782e143cc26c9",
+  "parent_t1_ref": "garagedoorrepairsinbrisbane-153",
+  "node_role": "feeder",
+  "money_target": "garagedoorrepairsinbrisbane.com.au",
+  "primary_kw": "garage door repairs brisbane checklist",
+  "intended_url": "https://aumedia.neocities.org/garage-door-repairs-brisbane-checklist-4b6ca094fe8782e143cc26c9/",
+  "tier": "T2",
+  "writeback_nonce": "a595d10f0c6d9a5c",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/garagedoorrepairsinbrisbane-153/",
+      "anchor": "this garage door repairs brisbane suburb guide resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
